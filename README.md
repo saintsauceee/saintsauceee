@@ -5,9 +5,16 @@
 ---
 
 ### 📚 Currently Learning  
-- ⚙️ Scalable Infrastruture for Backend Systems
-- 🔒 Robustness in Multimodal Grounding for LLMs
-- 🤖 Reinforcement Learning for LLMs  
+- Scalable Infrastruture for Backend Systems
+- Robustness in Multimodal Grounding for LLMs
+- Reinforcement Learning for LLMs  
+
+---
+
+### 🚀 Some more interesting stuff I worked on 
+- Improving Mathematical CoT for Small LLMs using RL (private repo)
+- Deep Research Multi-Agent System for Reddit (private repo)
+- TinyTorch: ML Library Written in C (public repo, in progress ...)
 
 ---
 
