@@ -1,6 +1,6 @@
 ## Hey, I’m Donghao 👋
 
-💡 **Curious Builder | AI & Systems Enthusiast | Full-Stack Developer**
+💡 **Curious Builder - AI/ML Enthusiast - Full-Stack Developer**
 
 ---
 
