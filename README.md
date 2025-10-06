@@ -5,9 +5,9 @@
 ---
 
 ### 📚 Currently Learning  
-- Scalable Infrastruture for Backend Systems
-- Robustness in Multimodal Grounding for LLMs
-- Reinforcement Learning for LLMs  
+- Scalable Infra for Backend Systems
+- Robustness in GUI Grounding for LLMs
+- Reinforcement Learning for VLLMs
 
 ---
 
