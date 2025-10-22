@@ -4,7 +4,6 @@
 
 ### 📚 Currently Learning...
 - Scalable Infra for Backend Systems
-- Robustness in GUI Grounding for AI Models
 - Reinforcement Learning for VLLMs
 
 ### 🚀 Some of my projects include... 
